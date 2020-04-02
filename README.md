@@ -1,3 +1,3 @@
-# calculatrice
+# :star:calculatrice:star:
 une calculatrice scientifique
-<h1>voila l'interface de la calculatrice</h1>
+ <h1>:star: voila l'interface de la calculatrice :star:</h1>
